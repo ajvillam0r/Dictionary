@@ -1,5 +1,4 @@
 dictionary = {
-    # Nouns
     "apple": {
         "Meaning": "A round fruit with red or green skin and a crisp white interior.",
         "Part of Speech": "noun",
@@ -35,7 +34,6 @@ dictionary = {
         "Singular Form": "tree",
         "Sentence": "The tree provides shade."
     },
-    # More Nouns
     'flower': {
         'Meaning': 'The reproductive structure of a flowering plant, often colorful and fragrant.',
         'Part of Speech': 'noun',
@@ -64,7 +62,6 @@ dictionary = {
          'Singular Form':  'school',
          'Sentence':  'I go to school every day.'
      },
-     # Verbs
      'run': {
          'Meaning': 'To move swiftly on foot.',
          'Part of Speech': 'verb',
@@ -89,14 +86,12 @@ dictionary = {
          'Tense': '',
          'Sentence': 'She likes to sing in the shower.'
      },
-     # More Verbs
      'dance': {
          'Meaning': 'To move rhythmically to music.',
          'Part of Speech': 'verb',
          'Tense': '',
          'Sentence': 'They dance at the party.'
      },
-     # Adjectives
      'happy': {
          'Meaning': 'Feeling or showing pleasure or contentment.',
          'Part of Speech': 'adjective',
@@ -104,8 +99,6 @@ dictionary = {
          'Superlative Form': 'happiest',
          'Sentence': 'She is happy today.'
      },
-     # More Adjectives
-     # Adjectives
      "quickly": {
         "Meaning": "At a fast speed; rapidly.",
         "Part of Speech": "adverb",
@@ -121,9 +114,6 @@ dictionary = {
         "Part of Speech": "adverb",
         "Sentence": "He laughed loudly at the joke."
     },
-    
-    # Additional Words
-    # Nouns
     "bird": {
         "Meaning": "A warm-blooded vertebrate animal characterized by feathers and beaks, typically able to fly.",
         "Part of Speech": "noun",
@@ -138,8 +128,6 @@ dictionary = {
         "Singular Form": "computer",
         "Sentence": "I use my computer for work."
     },
-    
-    # Verbs
     "write": {
         "Meaning": "To form letters, words, or symbols on a surface with an instrument.",
         "Part of Speech": "verb",
@@ -152,8 +140,6 @@ dictionary = {
         "Tense": "",
         "Sentence": "Children love to play outside."
     },
-    
-    # Adjectives
     "friendly": { 
         "Meaning":  "Kind and pleasant; showing friendship.",
         "Part of Speech":  "adjective",
@@ -161,8 +147,6 @@ dictionary = {
         "Superlative Form":  "friendliest",
         "Sentence":  "She is very friendly to everyone."
     }, 
-
-    # More Adverbs
     'easily': { 
          'Meaning': 'Without difficulty; effortlessly.',
          'Part of Speech': 'adverb',
@@ -196,8 +180,6 @@ dictionary = {
         "Singular Form": "table",
         "Sentence": "The table is set for dinner."
     },
-    
-    # Verbs
     "run": {
         "Meaning": "To move swiftly on foot.",
         "Part of Speech": "verb",
@@ -222,8 +204,6 @@ dictionary = {
          'Tense': {'Present': '', 'Past': 'walked', 'Future': 'will walk'},
          'Sentence': 'I walked to the store yesterday.'
      },
-
-    # Adjectives
     'happy': {
          'Meaning': 'Feeling or showing pleasure or contentment.',
          'Part of Speech': 'adjective',
@@ -231,7 +211,6 @@ dictionary = {
          'Superlative Form': 'happiest',
          'Sentence': 'She is happy today.'
      },
-     # More Adjectives
      'sad': {
           'Meaning':  'Feeling or showing sorrow; unhappy.',
           'Part of Speech':  'adjective',
@@ -239,9 +218,6 @@ dictionary = {
           'Superlative Form':  'saddest',
           'Sentence':  'He felt sad after hearing the news.'
       },
-      
-      # Adverbs
-      # More Adverbs
       "quickly": {
           "Meaning": "At a fast speed; rapidly.",
           "Part of Speech": "adverb",
@@ -286,8 +262,6 @@ dictionary = {
         "Singular Form": "table",
         "Sentence": "The table is set for dinner."
     },
-    
-    # Verbs
     "run": {
         "Meaning": "To move swiftly on foot.",
         "Part of Speech": "verb",
@@ -312,8 +286,6 @@ dictionary = {
          'Tense': {'Present': '', 'Past': 'walked', 'Future': 'will walk'},
          'Sentence': 'I walked to the store yesterday.'
      },
-
-    # Adjectives
     'happy': {
          'Meaning': 'Feeling or showing pleasure or contentment.',
          'Part of Speech': 'adjective',
@@ -321,7 +293,6 @@ dictionary = {
          'Superlative Form': 'happiest',
          'Sentence': 'She is happy today.'
      },
-     # More Adjectives
      'sad': {
           'Meaning':  'Feeling or showing sorrow; unhappy.',
           'Part of Speech':  'adjective',
@@ -329,9 +300,6 @@ dictionary = {
           'Superlative Form':  'saddest',
           'Sentence':  'He felt sad after hearing the news.'
       },
-      
-      # Adverbs
-      # More Adverbs
       "quickly": {
           "Meaning": "At a fast speed; rapidly.",
           "Part of Speech": "adverb",
@@ -361,14 +329,12 @@ dictionary = {
            "Singular Form": "computer",
            "Sentence": "I use my computer for work."
        },
-       # Verbs
        "write": {
            "Meaning": "To form letters, words, or symbols on a surface with an instrument.",
            "Part of Speech": "verb",
            "Tense": {"Present": "", "Past": "wrote", "Future": "will write"},
            "Sentence": "I like to write stories."
        },
-       # Adjectives
        "friendly": { 
             "Meaning": "Kind and pleasant; showing friendship." , 
             "Part of Speech": "adjective", 
@@ -417,7 +383,6 @@ dictionary = {
         "Tense": {"Present": "",  "Past":  "cooked",  "Future":  "will cook"},
          "Sentence":  "I cooked dinner last night."
     },
-    # New Verbs
     'clean': {
          'Meaning': 'To remove dirt or unwanted substances from something.',
          'Part of Speech': 'verb',
@@ -430,8 +395,6 @@ dictionary = {
          'Tense': {'Present': '', 'Past': 'built', 'Future': 'will build'},
          'Sentence': 'They built a treehouse last summer.'
      },
-
-    # Adjectives
     'bright': {
          'Meaning': 'Emitting or reflecting much light; vivid in color.',
          'Part of Speech': 'adjective',
@@ -439,7 +402,6 @@ dictionary = {
          'Superlative Form': 'brightest',
          'Sentence': 'The brightest star shone in the sky.'
      },
-     # New Adjectives
      'quiet': {
           'Meaning':  'Making little or no noise.',
           'Part of Speech':  'adjective',
@@ -447,8 +409,6 @@ dictionary = {
           'Superlative Form':  'quietest',
           'Sentence':  'The library is a quiet place to study.'
       },
-      # Adverbs
-      # More Adverbs
       "suddenly": {
           "Meaning": "Quickly and unexpectedly.",
           "Part of Speech": "adverb",
@@ -464,8 +424,6 @@ dictionary = {
            "Part of Speech":  'adverb', 
            "Sentence":  'I carelessly dropped my phone.'
        }, 
-       # Additional Unique Words
-       # Nouns
        "cloud": {
            "Meaning": "A visible mass of condensed water vapor floating in the atmosphere.",
            "Part of Speech": "noun",
@@ -480,14 +438,12 @@ dictionary = {
            "Singular Form": "mountain",
            "Sentence": "They climbed the mountain last summer."
        },
-       # Verbs
        "jump": {
            "Meaning": "To spring off the ground by pushing with the legs.",
            "Part of Speech": "verb",
            "Tense": {"Present": "", "Past": "jumped", "Future": "will jump"},
            "Sentence": "I jumped over the puddle."
        },
-       # Adjectives
        "tall": { 
             "Meaning": "Having a greater than average height." , 
             "Part of Speech": "adjective", 
@@ -509,8 +465,6 @@ dictionary = {
         "Singular Form": "cup",
         "Sentence": "He drank coffee from his favorite cup."
     },
-
-    # Verbs
     "listen": {
         "Meaning": "To give attention to sound.",
         "Part of Speech": "verb",
@@ -523,8 +477,6 @@ dictionary = {
         "Tense": {"Present": "", "Past": "drew", "Future": "will draw"},
         "Sentence": "She drew a beautiful picture."
     },
-
-    # Adjectives
     "colorful": {
         "Meaning": "Full of colors; bright and vibrant.",
         "Part of Speech": "adjective",
